@@ -2,7 +2,7 @@
 <h3 align="center">A curious person from Brazil who embarked on the development world 2 years ago and fell in love with it</h3>
 
 <p align="center">
-<a href="https://ibb.co/4KdYRBs"><img src="https://i.ibb.co/S5rdwqQ/More-about-me.png" alt="More-about-me" border="0"></a>
+<a href="https://ibb.co/SfCzQq3"><img src="https://i.ibb.co/5KHPYqR/imagem-2021-06-13-082821.png" alt="imagem-2021-06-13-082821" border="0"></a>
 </p>
 
 :mortar_board: Graduating in Computer Science at [FAESA](https://www.faesa.br).
