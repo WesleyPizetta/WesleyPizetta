@@ -1,6 +1,10 @@
 <h1 align="center">Hey there, would you like some coffee? :coffee: Call me Wesley</h1>
 <h3 align="center">A curious person from Brazil who embarked on the development world 2 years ago and fell in love with it</h3>
 
+<p align="center">
+<a href="https://ibb.co/4KdYRBs"><img src="https://i.ibb.co/S5rdwqQ/More-about-me.png" alt="More-about-me" border="0"></a>
+</p>
+
 :mortar_board: Graduating in Computer Science at [FAESA](https://www.faesa.br).
 
 💻 My favourites tools: <img src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" width="20"/> <b> Flutter</b> and <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>. 
