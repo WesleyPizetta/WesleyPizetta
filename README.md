@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/wesley-pizetta-329606190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wesley pizetta" height="30" width="30" /></a> <a href="https://discord.gg/Wes#6637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Wes#6637" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wesley-pizetta-329606190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wesley pizetta" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
