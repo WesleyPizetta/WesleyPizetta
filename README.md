@@ -9,7 +9,7 @@
 
 💻 My favourites tools: <img src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" width="20"/> <b> Flutter</b> and <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>. 
 
-🔭 I am currently working on [REST API using Node + Express + MongoDB](https://github.com/WesleyPizetta/node-auth-api)
+🔭 I am currently working on [PayFlow: using Flutter + Firebase](https://github.com/WesleyPizetta/payflow_flutter/tree/dev)
 
 
 :books: I am currently learning **Flutter, Nodejs, REST API and MongoDB**
