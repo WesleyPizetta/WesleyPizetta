@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, would you like some coffee? :coffee: Call me Wesley</h1>
-<h3 align="center">A curious person from Brazil who embarked on the development world 2 years ago and fell in love with it</h3>
+<h3 align="center">A curious person from Brazil who embarked on the development world 4 years ago and fell in love with it</h3>
 
 <p align="center">
 <a href="https://ibb.co/SfCzQq3"><img src="https://i.ibb.co/5KHPYqR/imagem-2021-06-13-082821.png" alt="imagem-2021-06-13-082821" border="0"></a>
