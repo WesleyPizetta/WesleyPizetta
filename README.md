@@ -12,7 +12,7 @@
 🔭 I am currently working on [PayFlow: using Flutter + Firebase](https://github.com/WesleyPizetta/payflow_flutter/tree/dev)
 
 
-:books: I am currently learning **Flutter, Nodejs, REST API and MongoDB**
+:books: I am currently learning **Flutter Unit Tests and Clean Arch**
 
 👨‍💻 All of my projects are available at [https://github.com/WesleyPizetta?tab=repositories](https://github.com/WesleyPizetta?tab=repositories)
 
